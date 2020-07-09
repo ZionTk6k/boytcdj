@@ -1,5 +1,5 @@
 for (let index = 0; index < 2; index++) {
-    basic.showString("bonjour")
+    basic.showString("BONJOUR")
     basic.pause(500)
     basic.showNumber(10853)
     basic.pause(500)
